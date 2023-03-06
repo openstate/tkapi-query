@@ -133,3 +133,4 @@ data/*.json
 data/*.pdf
 data/*.doc?
 data/*.xls?
+data/*.zip
