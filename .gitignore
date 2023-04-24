@@ -134,3 +134,6 @@ data/*.pdf
 data/*.doc?
 data/*.xls?
 data/*.zip
+data/[0-9]*
+documents.txt
+pages.txt
